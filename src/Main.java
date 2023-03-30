@@ -10,9 +10,16 @@ public class Main {
         x.size="1234cc";
         x.weight="6453k";
 
+
         Color color=new Color();
         color.colorLights="True";
         color.colorType="False";
         color.colorWindows="True";
+
+        Lights lights=new Lights();
+        lights.color="white";
+        lights.size="15cm";
+        lights.intensity="137365437lumin";
+
     }
 }
